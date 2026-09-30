@@ -625,7 +625,7 @@ This section contains libraries that take an experimental or unorthodox approach
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [1742⭐] - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling).
 - [GitJournal](https://github.com/GitJournal/GitJournal) [1717⭐] - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda).
 - [AuthPass](https://github.com/authpass/authpass) [1061⭐] - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul).
-- [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [1523⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
+- [Fwitter](https://github.com/ramonaoldf/flutter_twitter_clone) [1523⭐] - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc).
 - [Harpy](https://github.com/robertodoering/harpy) [825⭐] - Feature rich Twitter client by [Roberto Doering](https://github.com/robertodoering).
 
 ## Utilities
